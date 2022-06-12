@@ -1,5 +1,5 @@
 # frontend-task
  
-#To run locally -:
--> npm i
--> npm start
+# To run locally -:
+# -> npm i
+# -> npm start
